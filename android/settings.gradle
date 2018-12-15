@@ -1,0 +1,3 @@
+rootProject.name = 'voltron'
+
+include ':app'
